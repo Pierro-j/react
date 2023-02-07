@@ -1,0 +1,18 @@
+.App {
+    display: flex;
+    gap: 42px;
+}
+
+
+.card__image {
+    height: 50vh;
+    width: 70vh;
+    display: flex;
+}
+
+.Number {
+    display: grid;
+    grid-column: auto;
+    text-align: center;
+
+}
